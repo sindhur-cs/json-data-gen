@@ -1,0 +1,229 @@
+{
+    "title": "Graphs",
+    "content_type_uid": "blog",
+    "entry_uid": "a",
+      "localized_entries": [
+          {
+            "locale": "EN",
+            "content_type_uid": "localise",
+            "entry_uid": "eng-1",
+            "references": [
+              {
+                "title": "Sindhur",
+                "content_type_uid": "author",
+                "entry_uid": "s",
+                "localized_entries": [
+                  {
+                    "locale": "EN",
+                    "content_type_uid": "localise",
+                    "entry_uid": "eng-4",
+                    "references": [
+                      {
+                        "title": "Contentstack",
+                        "content_type_uid": "company",
+                        "entry_uid": "co"
+                      }
+                    ]
+                  },
+                  {
+                    "locale": "FR",
+                    "content_type_uid": "localise",
+                    "entry_uid": "fr-sm",
+                    "references": [
+                      {
+                        "title": "Contentstack",
+                        "content_type_uid": "company",
+                        "entry_uid": "co"
+                      }
+                    ]
+                  },
+                  {
+                    "locale": "ES",
+                    "content_type_uid": "localise",
+                    "entry_uid": "es-sm",
+                    "references": [
+                      {
+                        "title": "Contentstack",
+                        "content_type_uid": "company",
+                        "entry_uid": "co"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Zuhair",
+                "content_type_uid": "author",
+                "entry_uid": "z",
+                "localized_entries": [
+                  {
+                    "locale": "EN",
+                    "content_type_uid": "localise",
+                    "entry_uid": "eng-10",
+                    "references": [
+                      {
+                        "title": "Contentstack",
+                        "content_type_uid": "company",
+                        "entry_uid": "co"
+                      }
+                    ]
+                  },
+                  {
+                    "locale": "FR",
+                    "content_type_uid": "localise",
+                    "entry_uid": "fr-bl",
+                    "references": [
+                      {
+                        "title": "Contentstack",
+                        "content_type_uid": "company",
+                        "entry_uid": "co"
+                      }
+                    ]
+                  },
+                  {
+                    "locale": "ES",
+                    "content_type_uid": "localise",
+                    "entry_uid": "es-bl",
+                    "references": [
+                      {
+                        "title": "Contentstack",
+                        "content_type_uid": "company",
+                        "entry_uid": "co"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "19th Nov Meetup",
+                "content_type_uid": "meetups",
+                "entry_uid": "m",
+                "localized_entries": [
+                  {
+                    "locale": "EN",
+                    "content_type_uid": "localise",
+                    "entry_uid": "eng-20",
+                    "references": [
+                      {
+                        "title": "Graphs",
+                        "content_type_uid": "blog",
+                        "entry_uid": "a"
+                      }
+                    ]
+                  },
+                  {
+                    "locale": "FR",
+                    "content_type_uid": "localise",
+                    "entry_uid": "fr-me",
+                    "references": [
+                      {
+                        "title": "Graphs",
+                        "content_type_uid": "blog",
+                        "entry_uid": "a"
+                      }
+                    ]
+                  },
+                  {
+                    "locale": "ES",
+                    "content_type_uid": "localise",
+                    "entry_uid": "es-me",
+                    "references": [
+                      {
+                        "title": "Graphs",
+                        "content_type_uid": "blog",
+                        "entry_uid": "a"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "locale": "FR",
+            "content_type_uid": "localise",
+            "entry_uid": "fr-1",
+            "references": [
+              {
+                "title": "Sindhur",
+                "content_type_uid": "author",
+                "entry_uid": "s",
+                "references": [
+                  {
+                    "title": "Contentstack",
+                    "content_type_uid": "company",
+                    "entry_uid": "co"
+                  }
+                ]
+              },
+              {
+                "title": "Zuhair",
+                "content_type_uid": "author",
+                "entry_uid": "z",
+                "references": [
+                  {
+                    "title": "Contentstack",
+                    "content_type_uid": "company",
+                    "entry_uid": "co"
+                  }
+                ]
+              },
+              {
+                "title": "19th Nov Meetup",
+                "content_type_uid": "meetups",
+                "entry_uid": "m",
+                "references": [
+                  {
+                    "title": "Graphs",
+                    "content_type_uid": "blog",
+                    "entry_uid": "a"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "locale": "ES",
+            "content_type_uid": "localise",
+            "entry_uid": "es-1",
+            "references": [
+              {
+                "title": "Sindhur",
+                "content_type_uid": "author",
+                "entry_uid": "s",
+                "references": [
+                  {
+                    "title": "Contentstack",
+                    "content_type_uid": "company",
+                    "entry_uid": "co"
+                  }
+                ]
+              },
+              {
+                "title": "Zuhair",
+                "content_type_uid": "author",
+                "entry_uid": "z",
+                "references": [
+                  {
+                    "title": "Contentstack",
+                    "content_type_uid": "company",
+                    "entry_uid": "co"
+                  }
+                ]
+              },
+              {
+                "title": "19th Nov Meetup",
+                "content_type_uid": "meetups",
+                "entry_uid": "m",
+                "references": [
+                  {
+                    "title": "Graphs",
+                    "content_type_uid": "blog",
+                    "entry_uid": "a"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+  }

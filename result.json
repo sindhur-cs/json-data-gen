@@ -1,0 +1,207 @@
+{
+  "title": "Graphs - English",
+  "content_type_uid": "blog",
+  "entry_uid": "blt5b202fdaa2a71417-en",
+  "localized_entries": [
+    {
+      "locale": "FR",
+      "content_type_uid": "localise",
+      "entry_uid": "7224310a-63a1-418a-8329-05a2d7c2761d",
+      "references": [
+        {
+          "title": "19th Nov Meetup",
+          "content_type_uid": "meetups",
+          "entry_uid": "blteba67aabc952b5d4-en",
+          "localized_entries": [
+            {
+              "locale": "EN",
+              "content_type_uid": "localise",
+              "entry_uid": "e3114d24-0605-474e-86d6-8ec89fcb0e10",
+              "references": [
+                {
+                  "title": "Graphs - French",
+                  "content_type_uid": "blog",
+                  "entry_uid": "blt5b202fdaa2a71417-fr"
+                }
+              ]
+            },
+            {
+              "locale": "EN",
+              "content_type_uid": "localise",
+              "entry_uid": "bf400f15-fcc3-44c3-b566-05cef6d5adb4",
+              "references": [
+                {
+                  "title": "Graphs - English",
+                  "content_type_uid": "blog",
+                  "entry_uid": "blt5b202fdaa2a71417-en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sindhur - French",
+          "content_type_uid": "author",
+          "entry_uid": "blt6f0e30fbd9e033d0-fr",
+          "localized_entries": [
+            {
+              "locale": "FR",
+              "content_type_uid": "localise",
+              "entry_uid": "16863bff-9126-45d9-adee-1ff293b38f64",
+              "references": [
+                {
+                  "title": "Contentstack",
+                  "content_type_uid": "company",
+                  "entry_uid": "bltcc33c37bedcddd57-en"
+                }
+              ]
+            },
+            {
+              "locale": "EN",
+              "content_type_uid": "localise",
+              "entry_uid": "b8b6f19e-d382-4125-aa96-520875e0f2ac",
+              "references": [
+                {
+                  "title": "Contentstack",
+                  "content_type_uid": "company",
+                  "entry_uid": "bltcc33c37bedcddd57-en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Zuhair",
+          "content_type_uid": "author",
+          "entry_uid": "blte9aaea031b02e0cd-en",
+          "localized_entries": [
+            {
+              "locale": "EN",
+              "content_type_uid": "localise",
+              "entry_uid": "2a4bc340-e576-427a-8680-a9f11c7f9cb2",
+              "references": [
+                {
+                  "title": "Contentstack",
+                  "content_type_uid": "company",
+                  "entry_uid": "bltcc33c37bedcddd57-en"
+                }
+              ]
+            },
+            {
+              "locale": "EN",
+              "content_type_uid": "localise",
+              "entry_uid": "de472465-e80d-4dea-ba69-49e846e28f64",
+              "references": [
+                {
+                  "title": "Contentstack",
+                  "content_type_uid": "company",
+                  "entry_uid": "bltcc33c37bedcddd57-en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "EN",
+      "content_type_uid": "localise",
+      "entry_uid": "806f1266-37a8-4703-9a59-5217145772f4",
+      "references": [
+        {
+          "title": "Zuhair",
+          "content_type_uid": "author",
+          "entry_uid": "blte9aaea031b02e0cd-en",
+          "localized_entries": [
+            {
+              "locale": "EN",
+              "content_type_uid": "localise",
+              "entry_uid": "08c4ad0f-1249-490b-9612-1f6abd13239b",
+              "references": [
+                {
+                  "title": "Contentstack",
+                  "content_type_uid": "company",
+                  "entry_uid": "bltcc33c37bedcddd57-en"
+                }
+              ]
+            },
+            {
+              "locale": "EN",
+              "content_type_uid": "localise",
+              "entry_uid": "b660be46-d853-4c02-9fc8-8929d076511e",
+              "references": [
+                {
+                  "title": "Contentstack",
+                  "content_type_uid": "company",
+                  "entry_uid": "bltcc33c37bedcddd57-en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sindhur",
+          "content_type_uid": "author",
+          "entry_uid": "blt6f0e30fbd9e033d0-en",
+          "localized_entries": [
+            {
+              "locale": "FR",
+              "content_type_uid": "localise",
+              "entry_uid": "7c567418-3951-4490-a6df-24651313d8b8",
+              "references": [
+                {
+                  "title": "Contentstack",
+                  "content_type_uid": "company",
+                  "entry_uid": "bltcc33c37bedcddd57-en"
+                }
+              ]
+            },
+            {
+              "locale": "EN",
+              "content_type_uid": "localise",
+              "entry_uid": "c9cc61dd-d450-43d2-862a-ca48b6fbf094",
+              "references": [
+                {
+                  "title": "Contentstack",
+                  "content_type_uid": "company",
+                  "entry_uid": "bltcc33c37bedcddd57-en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "19th Nov Meetup",
+          "content_type_uid": "meetups",
+          "entry_uid": "blteba67aabc952b5d4-en",
+          "localized_entries": [
+            {
+              "locale": "EN",
+              "content_type_uid": "localise",
+              "entry_uid": "294884a0-9a13-4568-88cc-2613ed3805e9",
+              "references": [
+                {
+                  "title": "Graphs - French",
+                  "content_type_uid": "blog",
+                  "entry_uid": "blt5b202fdaa2a71417-fr"
+                }
+              ]
+            },
+            {
+              "locale": "EN",
+              "content_type_uid": "localise",
+              "entry_uid": "2c93d41d-9843-4204-ad35-7c5eb2718943",
+              "references": [
+                {
+                  "title": "Graphs - English",
+                  "content_type_uid": "blog",
+                  "entry_uid": "blt5b202fdaa2a71417-en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
