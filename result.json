@@ -6,7 +6,7 @@
     {
       "locale": "FR",
       "content_type_uid": "localise",
-      "entry_uid": "7224310a-63a1-418a-8329-05a2d7c2761d",
+      "entry_uid": "72885804-4839-4203-bd09-35d915de5432",
       "references": [
         {
           "title": "19th Nov Meetup",
@@ -14,9 +14,10 @@
           "entry_uid": "blteba67aabc952b5d4-en",
           "localized_entries": [
             {
-              "locale": "EN",
+              "locale": "FR",
+              "fallback": "EN",
               "content_type_uid": "localise",
-              "entry_uid": "e3114d24-0605-474e-86d6-8ec89fcb0e10",
+              "entry_uid": "f86bfc9b-dd9b-4559-b0c4-e8b5cb089e91",
               "references": [
                 {
                   "title": "Graphs - French",
@@ -28,7 +29,7 @@
             {
               "locale": "EN",
               "content_type_uid": "localise",
-              "entry_uid": "bf400f15-fcc3-44c3-b566-05cef6d5adb4",
+              "entry_uid": "5452474f-3b1e-4e5f-8a7f-05489eb1ebbe",
               "references": [
                 {
                   "title": "Graphs - English",
@@ -47,7 +48,7 @@
             {
               "locale": "FR",
               "content_type_uid": "localise",
-              "entry_uid": "16863bff-9126-45d9-adee-1ff293b38f64",
+              "entry_uid": "ce5aee9f-650b-41e8-92fa-69eab2d3313b",
               "references": [
                 {
                   "title": "Contentstack",
@@ -59,7 +60,7 @@
             {
               "locale": "EN",
               "content_type_uid": "localise",
-              "entry_uid": "b8b6f19e-d382-4125-aa96-520875e0f2ac",
+              "entry_uid": "d82d3db1-4436-4e7f-9342-b17e251db8ca",
               "references": [
                 {
                   "title": "Contentstack",
@@ -76,9 +77,10 @@
           "entry_uid": "blte9aaea031b02e0cd-en",
           "localized_entries": [
             {
-              "locale": "EN",
+              "locale": "FR",
+              "fallback": "EN",
               "content_type_uid": "localise",
-              "entry_uid": "2a4bc340-e576-427a-8680-a9f11c7f9cb2",
+              "entry_uid": "56a43744-3415-4794-b52e-92bcea61c060",
               "references": [
                 {
                   "title": "Contentstack",
@@ -90,7 +92,7 @@
             {
               "locale": "EN",
               "content_type_uid": "localise",
-              "entry_uid": "de472465-e80d-4dea-ba69-49e846e28f64",
+              "entry_uid": "4e5bc491-5b2e-4657-babb-b1fca89a9d99",
               "references": [
                 {
                   "title": "Contentstack",
@@ -106,7 +108,7 @@
     {
       "locale": "EN",
       "content_type_uid": "localise",
-      "entry_uid": "806f1266-37a8-4703-9a59-5217145772f4",
+      "entry_uid": "b5d12506-4da9-4f0b-bfc1-dd0f5304b8d1",
       "references": [
         {
           "title": "Zuhair",
@@ -114,9 +116,10 @@
           "entry_uid": "blte9aaea031b02e0cd-en",
           "localized_entries": [
             {
-              "locale": "EN",
+              "locale": "FR",
+              "fallback": "EN",
               "content_type_uid": "localise",
-              "entry_uid": "08c4ad0f-1249-490b-9612-1f6abd13239b",
+              "entry_uid": "fdcff36a-6dbd-4eca-a78b-d3a216bd912e",
               "references": [
                 {
                   "title": "Contentstack",
@@ -128,7 +131,7 @@
             {
               "locale": "EN",
               "content_type_uid": "localise",
-              "entry_uid": "b660be46-d853-4c02-9fc8-8929d076511e",
+              "entry_uid": "04877912-d291-440e-854c-49b2b18d2329",
               "references": [
                 {
                   "title": "Contentstack",
@@ -147,7 +150,7 @@
             {
               "locale": "FR",
               "content_type_uid": "localise",
-              "entry_uid": "7c567418-3951-4490-a6df-24651313d8b8",
+              "entry_uid": "bbf17ec3-b7d6-4616-9b9d-37c680951cd8",
               "references": [
                 {
                   "title": "Contentstack",
@@ -159,7 +162,7 @@
             {
               "locale": "EN",
               "content_type_uid": "localise",
-              "entry_uid": "c9cc61dd-d450-43d2-862a-ca48b6fbf094",
+              "entry_uid": "10ce68da-9a91-4bf4-9c75-83fcb3f58402",
               "references": [
                 {
                   "title": "Contentstack",
@@ -176,9 +179,10 @@
           "entry_uid": "blteba67aabc952b5d4-en",
           "localized_entries": [
             {
-              "locale": "EN",
+              "locale": "FR",
+              "fallback": "EN",
               "content_type_uid": "localise",
-              "entry_uid": "294884a0-9a13-4568-88cc-2613ed3805e9",
+              "entry_uid": "ef9f591c-7e70-4fbd-838b-233d581e23af",
               "references": [
                 {
                   "title": "Graphs - French",
@@ -190,7 +194,7 @@
             {
               "locale": "EN",
               "content_type_uid": "localise",
-              "entry_uid": "2c93d41d-9843-4204-ad35-7c5eb2718943",
+              "entry_uid": "f381494f-d429-487f-bcc1-07ab94061629",
               "references": [
                 {
                   "title": "Graphs - English",

@@ -38,19 +38,18 @@ async function fetchDescendants(
   try {
     const response = await Promise.all(localeData.locales.map(async locale => {
       const entryUID = entryUid.split("-")[0];
-      console.log(entryUID, locale.code);
       const res = await axios.get(`${API_BASE_URL}/${contentTypeUid}/entries/${entryUID}/descendants?locale=${locale.code}&depth=${DEPTH}`, { headers })
-      console.log("HERE", res.data);
+      res.data.actualLocale = locale.code; 
+      res.data.fallback = locale.fallback_locale;
       return res;
     }));
-
-    console.log("RES", response.map(res => res.data));
 
     const modifiedArray = response.map(res => {
       if (!res.data.uid.includes(res.data.locale.split("-")[0])) {
         res.data.uid = res.data.uid + "-" + res.data.locale.split("-")[0];
       }
       processedEntries.add(res.data.uid);
+      console.log(res.data);
       return res.data;
     });
 
@@ -88,6 +87,8 @@ async function fetchNestedReferences(
     localeData
   );
 
+  console.log("dataARRAY", dataArray);
+
   if (!Array.isArray(dataArray) || dataArray.length === 0) {
     return {};
   }
@@ -118,8 +119,15 @@ async function fetchNestedReferences(
         })
       );
 
+      console.log("DATA", data);
+
       return {
-        locale: data.locale.split("-")[0].toUpperCase(),
+        ...(data.actualLocale && data.locale !== data.actualLocale ? {
+          locale: data.actualLocale.split("-")[0].toUpperCase(),
+          fallback: data.locale.split("-")[0].toUpperCase(),
+        } : {
+          locale: data.locale.split("-")[0].toUpperCase(),
+        }),
         content_type_uid: "localise",
         entry_uid: data.entry_uid || randomUUID(),
         references,
